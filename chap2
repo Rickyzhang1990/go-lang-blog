@@ -9,4 +9,7 @@ GO名称的命名规则，名称的开头是一个字母或者下划线，后面
      bool byte rune string error 
 函数：make len cap new append copy close delete 
      complex real imag
-     panic recover 
+     panic recover
+ 2.2 声明
+ 声明是给一个程序实体命名，并设定其部分或全部属性。有4个主要的声明：变量（var）常量（const）类型（type）和函数（func）.
+ 
