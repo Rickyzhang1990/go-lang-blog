@@ -12,4 +12,5 @@ GO名称的命名规则，名称的开头是一个字母或者下划线，后面
      panic recover
  2.2 声明
  声明是给一个程序实体命名，并设定其部分或全部属性。有4个主要的声明：变量（var）常量（const）类型（type）和函数（func）.
+ 程序见 scripts内boiling.go  常量boilingF是一个包级别的声明，f,c是函数内的局部变量
  
