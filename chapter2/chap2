@@ -15,4 +15,4 @@ GO名称的命名规则，名称的开头是一个字母或者下划线，后面
  程序见 scripts内boiling.go  常量boilingF是一个包级别的声明，f,c是函数内的局部变量
  
  函数调用
- 
+ 在程序中定义子函数，可以供主程序调用。示例如chap2_script中FtoC.go
